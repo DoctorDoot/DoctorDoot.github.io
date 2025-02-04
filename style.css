@@ -94,6 +94,16 @@ header a .logo {
     color: #FFFFFF;
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+.container #Title {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#About {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
 .container {
     background-image: url(images/squiggles.png);
 	background-attachment: scroll;
@@ -101,8 +111,10 @@ header a .logo {
     background-position: 0 0%;
     padding-bottom: 50%;
 }
-.container #Title {
-    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
-    font-weight: bolder;
+.container #Single Heading {
+    font-size: larger;
+}
+.container #ContactTitle p {
     font-size: xx-large;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
 }
